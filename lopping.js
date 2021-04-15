@@ -1,5 +1,5 @@
-const a = {}
-const b = {}
+const a = []
+const b = []
 
 for (var angka = 1; angka <= 100; angka++) {
     while (a.length > 0) {
@@ -38,5 +38,5 @@ for (var angka = 1; angka <= 100; angka++) {
             b.push( "K0" )
         }
     }
-    console.log(a+""+b);
+    console.log(a+" "+b);
 }
