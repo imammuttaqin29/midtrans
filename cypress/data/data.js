@@ -1,0 +1,1 @@
+const =  [{ nama: "Danang", email: "danang1@gmail.com,", phone: "087777777777", city: "Jakarta", address: "kampung rambutan", kpos: "12345"}{ nama: "Danang", email: "danang1@gmail.com,", phone: "087777777777", city: "Jakarta", address: "kampung rambutan", kpos: "12345"}]
